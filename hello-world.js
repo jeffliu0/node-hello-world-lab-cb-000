@@ -1,5 +1,5 @@
-function hello(){
+function hello-world(){
   return 'Hello World'
 }
 
-export.module = hello
+export.module = hello-world
