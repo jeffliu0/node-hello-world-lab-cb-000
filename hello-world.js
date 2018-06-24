@@ -1,5 +1,5 @@
 function helloworld(){
-  return 'Hello World'
+  return "Hello World"
 }
 
 export.module = helloworld
